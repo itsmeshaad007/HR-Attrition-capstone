@@ -59,3 +59,11 @@ Alternatively, open the FinalProject.ipynb notebook in Jupyter Notebook and run 
 
 # Conclusion
 This code demonstrates a machine learning approach to predict employee attrition using a dataset of employee information. By analyzing various features of employees, we can predict which employees are most likely to leave the company, allowing the company to take proactive measures to retain those employees.
+
+# Acknowledgement
+Blogpost link: https://medium.com/@shadman.nw/hr-attrition-using-data-science-734c27485f92
+
+https://www.gartner.com/en/human-resources/glossary/attrition#:~:text=Attrition%20is%20the%20departure%20of,%2C%20termination%2C%20death%20or%20retirement
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://pandas.pydata.org/docs/user_guide/10min.html
+https://pandas.pydata.org/docs/
